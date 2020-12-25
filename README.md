@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
+    <a href="https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
   </h3>
@@ -37,18 +37,18 @@
 ## Overview
 
 - Desktop view
-![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608660824/interior_one_begjsm.jpg)
+![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608888464/recipe2_qviucf.jpg)
 
 
 - Mobile view
-![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608660859/interior_two_asagwc.jpg)
+![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608888510/recipe_1_r5bzw5.jpg)
 
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering: An interior responsive consultant website.
+ An interior responsive consultant website.
 
-- Where can I see your demo? Please click on the demo link.
+- Where can I see your demo? Please click on the demo link above.
 - What was your experience? This one took some time and patience, Study more on Flexbox
-- What have you learned/improved? Flexbox
+- What have you learned/improved? This Was quite a challenge using flexbox but I learned to use flex-basis, flex-wrap, order and media query. It was a great challenge really enjoyed it.
 - Your wisdom? :)
 
 ### Built With
