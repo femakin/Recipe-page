@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro&family=Lora&family=Montserrat&family=PT+Serif&family=Playfair+Display&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #fafafa;
+}
+.container {
+  width: 90%;
+  padding: 14px;
+  margin: 0 auto;
+  background-color: #fafafa;
+}
+
+
