@@ -44,7 +44,7 @@
 ![screenshot](https://res.cloudinary.com/femakin/image/upload/v1608888510/recipe_1_r5bzw5.jpg)
 
 
- An interior responsive consultant website.
+ A recipe blog responsive challenge website.
 
 - Where can I see your demo? Please click on the demo link above.
 - What was your experience? This one took some time and patience, Study more on Flexbox
